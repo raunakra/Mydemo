@@ -1,0 +1,14 @@
+F:\C# WORK\MyDemo\MyDemo\obj\Debug\netcoreapp2.2\MyDemo.csprojAssemblyReference.cache
+F:\C# WORK\MyDemo\MyDemo\obj\Debug\netcoreapp2.2\MyDemo.csproj.CoreCompileInputs.cache
+F:\C# WORK\MyDemo\MyDemo\obj\Debug\netcoreapp2.2\MyDemo.RazorAssemblyInfo.cache
+F:\C# WORK\MyDemo\MyDemo\obj\Debug\netcoreapp2.2\MyDemo.RazorAssemblyInfo.cs
+F:\C# WORK\MyDemo\MyDemo\obj\Debug\netcoreapp2.2\MyDemo.AssemblyInfoInputs.cache
+F:\C# WORK\MyDemo\MyDemo\obj\Debug\netcoreapp2.2\MyDemo.AssemblyInfo.cs
+F:\C# WORK\MyDemo\MyDemo\bin\Debug\netcoreapp2.2\MyDemo.deps.json
+F:\C# WORK\MyDemo\MyDemo\bin\Debug\netcoreapp2.2\MyDemo.runtimeconfig.json
+F:\C# WORK\MyDemo\MyDemo\bin\Debug\netcoreapp2.2\MyDemo.runtimeconfig.dev.json
+F:\C# WORK\MyDemo\MyDemo\bin\Debug\netcoreapp2.2\MyDemo.dll
+F:\C# WORK\MyDemo\MyDemo\obj\Debug\netcoreapp2.2\MyDemo.RazorTargetAssemblyInfo.cache
+F:\C# WORK\MyDemo\MyDemo\bin\Debug\netcoreapp2.2\MyDemo.pdb
+F:\C# WORK\MyDemo\MyDemo\obj\Debug\netcoreapp2.2\MyDemo.dll
+F:\C# WORK\MyDemo\MyDemo\obj\Debug\netcoreapp2.2\MyDemo.pdb
